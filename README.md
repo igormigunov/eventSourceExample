@@ -13,4 +13,7 @@ cd eventSourceExample
 
 # Start it in simple mode
 node .
+
+# Open
+http://localhost:5000
 ```
